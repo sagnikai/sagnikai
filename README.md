@@ -8,7 +8,7 @@
   <a href="https://github.com/sagnikai"><img src="https://img.shields.io/badge/GitHub-sagnikai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/thesagnikmukherjee"><img src="https://img.shields.io/badge/LinkedIn-Sagnik%20Mukherjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://orcid.org/0009-0002-4111-6299"><img src="https://img.shields.io/badge/ORCID-0009--0002--4111--6299-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://sagnikai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sagnikai.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sagnikai.com"><img src="https://img.shields.io/badge/Portfolio-sagnikai.com-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p>
@@ -100,7 +100,7 @@ Researcher and software engineer working at the intersection of applied machine 
 - GitHub: [github.com/sagnikai](https://github.com/sagnikai)
 - LinkedIn: [linkedin.com/in/thesagnikmukherjee](https://linkedin.com/in/thesagnikmukherjee)
 - ORCID: [orcid.org/0009-0002-4111-6299](https://orcid.org/0009-0002-4111-6299)
-- Portfolio: [sagnikai.vercel.app](https://sagnikai.vercel.app)
+- Portfolio: [sagnikai.com](https://sagnikai.com)
 
 ---
 
